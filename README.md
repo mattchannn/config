@@ -3,8 +3,6 @@
 <p>Parcel 2 Bundler Workshop</p>
 </div>
 
-## What does this repo do in detail?
-
 ## Prerequisites
 
 - You should have a fundamental understanding on web bundler like webpack, rollup etc.
