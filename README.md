@@ -1,12 +1,17 @@
-<h1 align="center">Parcel 2 👨‍💻</h1>
-
-This project shows you how to use web bundler Parcel 2.
+<div align="center">
+<h1>Parcel 2 👨‍💻</h1>
+<p>Parcel 2 Bundler Workshop</p>
+</div>
 
 ## What does this repo do in detail?
 
 ## Prerequisites
 
-- Have a fundamental understanding on web bundler
+- You should have a fundamental understanding on web bundler like webpack, rollup etc.
+
+## Additional Resources
+
+- This is heavily inspired by [TANSTACK](/)
 
 ## System Requirements
 
@@ -22,7 +27,9 @@ npm --version
 node --version
 ```
 
-## Run the development server
+## Running the App
+
+Run development server
 
 ```npm
 npm run dev
