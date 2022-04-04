@@ -1,15 +1,22 @@
 <div align="center">
 <h1>Parcel 2 👨‍💻</h1>
 <p>Parcel 2 Bundler Workshop</p>
+<hr />
 </div>
 
-## Prerequisites
+## 💡 Prerequisites
 
 - You should have a fundamental understanding on web bundler like webpack, rollup etc.
 
-## Additional Resources
+## 📔 Additional Resources
 
 - This is heavily inspired by [TANSTACK](/)
+
+## 🎃 What you should learn from this repo
+
+### App.js
+
+We've used AsyncStorage here!
 
 ## System Requirements
 
@@ -25,10 +32,10 @@ npm --version
 node --version
 ```
 
-## Running the App
+## 🚀 Setup
 
-Run development server
+**Start Development Server**
 
-```npm
+```shell
 npm run dev
 ```
