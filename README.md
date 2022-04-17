@@ -6,11 +6,11 @@
 
 ## 💡 Prerequisites
 
-- You should have a fundamental understanding on web bundler like webpack, rollup etc.
+You should have a fundamental understanding on web bundler like webpack, rollup etc.
 
 ## 📔 Additional Resources
 
-- This is heavily inspired by [TANSTACK](/)
+This is heavily inspired by [TANSTACK](/)
 
 ## 🎃 What you should learn from this repo
 
