@@ -33,6 +33,7 @@ yarn start
 ```
 
 **To install android application on your device, you can run**
+
 _Please do not do it under AIA network_
 
 ```shell
