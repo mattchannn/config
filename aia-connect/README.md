@@ -32,7 +32,8 @@ yarn install --ignore-engines
 yarn start
 ```
 
-**Once the server is up and running, you can then run**
+**To install android application on your device, you can run**
+_Please do not do it under AIA network_
 
 ```shell
 yarn android-UAT
@@ -58,5 +59,5 @@ Experience any issue when running the App (Android)?
   ```
 
 - If you recognize the below error message, please make sure you have the right NDK version installed. [Reference](https://stackoverflow.com/questions/60404457/no-version-of-ndk-matched-the-requested-version)
-  
+
   > No version of NDK matched the requested version _%version%_. Versions available locally: _%version%_
