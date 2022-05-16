@@ -23,7 +23,7 @@ Follow the instruction [here](https://reactnative.dev/docs/environment-setup) an
 **Install dependencies**
 
 ```shell
-yarn install
+yarn install --ignore-engines
 ```
 
 **Start Development Server**
