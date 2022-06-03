@@ -18,7 +18,7 @@ This is heavily inspired by [TANSTACK](/)
 
 We've used AsyncStorage here!
 
-## System Requirements
+## 💻 System Requirements
 
 - git v2 or greater
 - npm v6 or greater
