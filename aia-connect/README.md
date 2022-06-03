@@ -49,7 +49,7 @@ Experience any issue when installing dependencies?
 
    > The engine "node" is incompatible with this module
 
-Experience any issue when running the App (Android)?
+Experience any issue when installing the App (Android)?
 
 - If you recognize the below error message, try to include the code in `build.gradle`. [Reference](https://hosochin.com/2021/07/15/post-871/)
 
@@ -62,3 +62,9 @@ Experience any issue when running the App (Android)?
 - If you recognize the below error message, please make sure you have the right NDK version installed. [Reference](https://stackoverflow.com/questions/60404457/no-version-of-ndk-matched-the-requested-version)
 
   > No version of NDK matched the requested version _%version%_. Versions available locally: _%version%_
+
+Experience any issue when running the App (Android)?
+
+- If you see white screen, there is a high chance your device / emulator does not connected to the React Native development server. You can open React Native development menu and click "Reload", the error screen will popup if that's the case.
+
+- If you cannot connect to React Native development server. That's because some applications in your device occupies `8081` port which is the default port of React Native development  server. The solution is that you should start the React Native development server with other port, for example `8000`. And once you started the application, open React Native development menu, go to "Settings", and find "Debug server host & port for device" setting, enter `ipaddress:port` like the illustration below.
