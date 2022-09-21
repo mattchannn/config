@@ -8,6 +8,11 @@
 
 You should have a fundamental understanding on web bundler like webpack, rollup etc.
 
+## 🌲 Braching
+
+- master
+- feature/a
+
 ## 📔 Additional Resources
 
 This is heavily inspired by [TANSTACK](/)
