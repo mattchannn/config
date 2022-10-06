@@ -48,6 +48,7 @@ Experience any issue when installing dependencies?
 2. If you recognize the below error message, try to install dependencies with run script `yarn install --ignore-engines`
 
    > The engine "node" is incompatible with this module
+3. If that still does not work, please refer to this [link](https://github.com/yarnpkg/yarn/issues/5259) for voodoo..
 
 Experience any issue when installing the App (Android)?
 
