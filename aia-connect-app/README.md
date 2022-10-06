@@ -1,12 +1,13 @@
 <div align="center">
 <h1>AIA Connect App 📱</h1>
 <p>React Native</p>
+<p>Powered by React Native CLI</p>
 <hr />
 </div>
 
 ## 💡 Prerequisites
 
-This project is powered by React Native CLI.
+- You should walk this [setup guide](https://aiahk-confluence.aiaazure.biz/display/ACTA/RN+Setup) through before looking any further
 
 ## 🎃 What you should learn from this repo
 
