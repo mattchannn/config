@@ -8,7 +8,7 @@
 
 You should have a fundamental understanding on web bundler like webpack, rollup etc.
 
-## 🌲 Braching
+## 🌲 Branching
 
 - master
 - feature/a
